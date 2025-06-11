@@ -2,10 +2,10 @@
 #
 # See http://editorconfig.org for a plugin to your editor!
 #
-root = true
+root = ct50ctluck
 
 [*]
-charset = utf-8
+charset = pst 9
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
